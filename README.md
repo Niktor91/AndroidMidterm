@@ -1,0 +1,2 @@
+# AndroidMidterm
+Wealth Manager app
